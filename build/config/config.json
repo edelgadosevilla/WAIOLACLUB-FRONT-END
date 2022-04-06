@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB772EDaDEFB347EeF2b5eFfaB15B314Ac2b629F7",
+  "SCAN_LINK": "https://polygonscan.com/token/0xfa37378481167adfe5a9bf8dd29390677d4de613",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Waiola Mask",
+  "SYMBOL": "WC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 145000000000000000000,
+  "DISPLAY_COST": 145,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/waiolaclub",
+  "SHOW_BACKGROUND": true
+}
